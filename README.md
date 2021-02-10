@@ -1,9 +1,15 @@
 ## AULA: ATRIBUTOS GlObAiS HTML
-## <div tabindex="1">
-## </div>
+<code>
+<div tabindex="1">
+</div>
+</code>
+<code>
+<div tabindex="2"></div> 
+</code>
 
-## <div tabindex="3"></div>
-## <div tabindex="2"></div>
+<code>
+<div tabindex="3"></div>
+</code>
 
  ## tabindex: quando a pessoa cliquar no teclado numerico
  ## 2 ou qualquer outro elemto disponivel com atributos a pagina
